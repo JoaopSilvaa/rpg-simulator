@@ -28,3 +28,5 @@ Back-end:
   > Instale as dependências [**Caso existam**] com `npm install`
   
   Para rodar o projeto desta forma, obrigatoriamente você deve ter o `node` instalado em seu computador.
+
+Este projeto foi desenvolvido por [João Antônio](https://www.linkedin.com/in/joaoantoniosilvaa/) durante o curso de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) 
