@@ -2,7 +2,7 @@
 
 # O que é o RPG SIMULATOR
 
-Projeto utilizando arquitetura SOLID e princípios de POO, estruturando um simuldor de jogos de interpretação, conhecidos como RPG (Role Playing Game).
+Projeto utilizando arquitetura SOLID e princípios de POO, estruturando um simulador de jogos de interpretação, conhecidos como RPG (Role Playing Game).
 
 ## Técnologias usadas
 
