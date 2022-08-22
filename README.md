@@ -1,16 +1,30 @@
-# 🚧 README em construção 🚧
+# RPG SIMULATOR
 
-<!-- Olá, Tryber!
+# O que é o RPG SIMULATOR
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Projeto utilizando arquitetura SOLID e princípios de POO, estruturando um simuldor de jogos de interpretação, conhecidos como RPG (Role Playing Game).
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Técnologias usadas
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Back-end:
+> Desenvolvido usando: TypeScript, Docker
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
 
--->
+## Você pode rodar o projeto com ou sem docker
+
+## Com Docker
+
+  > Rode o serviço `node` com o comando `docker-compose up -d`.
+  - Esse serviço irá inicializar um container chamado `trybers_and_dragons`.
+  - A partir daqui você pode rodar o container `trybers_and_dragons` via CLI ou abri-lo no VS Code.
+
+  > Use o comando `docker exec -it trybers_and_dragons bash`.
+  - Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
+
+  > Instale as dependências [**Caso existam**] com `npm install`
+
+## Sem Docker
+  
+  > Instale as dependências [**Caso existam**] com `npm install`
+  
+  Para rodar o projeto desta forma, obrigatoriamente você deve ter o `node` instalado em seu computador.
